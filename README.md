@@ -1,44 +1,61 @@
-# Dmoney-Rest-API-Automation
+# Dmoney Rest API Automation
 
-## Project Summary:
-A demo money transaction system where users can send money, cash in & cash out money, make payments & more. Here, I have created an integration that allows the admin to create roles such as Customer, Agent, and Merchant. I have added some test cases for user manipulation here.
+## 📋 Project Summary
+A Demo Money Transaction System Where Users Can Send Money, Cash In & Cash Out, Make Payments, And More.  
+This Project Includes Role Creation (Customer, Agent, Merchant) By the Admin And Several User Operation Test Cases.
 
+---
 
-## Generate Test Cases for full Scenario:
-#### Link: https://docs.google.com/spreadsheets/d/1hkW_mhwcHDnaTjaoikWdO0INoSEsQLoVvDk3fvsEV-g/edit?usp=sharing
+## ✅ Test Case Scenarios
+You Can Access The Full List Of Generated Test Cases For The Entire System Here:  
+🔗 [Google Sheet - Test Cases](https://docs.google.com/spreadsheets/d/1hkW_mhwcHDnaTjaoikWdO0INoSEsQLoVvDk3fvsEV-g/edit?usp=sharing)
 
+---
 
-## API Documentation
-You Can Access The Full API Documentation Here: [Postman Docs](https://documenter.getpostman.com/view/46281351/2sB34cq3uP)
+## 📘 API Documentation
+You Can Access The Complete API Documentation Here:  
+🔗 [Postman Docs](https://documenter.getpostman.com/view/46281351/2sB34cq3uP)
 
+---
 
-## Newman Test Report:
+## 📊 Newman Test Report
 Below Are The Newman Test Execution Screenshots:
 
-![newman-report1](https://github.com/user-attachments/assets/db6c103a-41cd-46c1-beab-999478c845db)
+![Newman Report 1](https://github.com/user-attachments/assets/db6c103a-41cd-46c1-beab-999478c845db)  
 *Newman Run Summary*
 
-![newman-report2](https://github.com/user-attachments/assets/d360a3db-d206-4f74-969b-05db64a9af26)
+![Newman Report 2](https://github.com/user-attachments/assets/d360a3db-d206-4f74-969b-05db64a9af26)  
 *Detailed Test Results*
 
+---
 
-## Technology:
-- Postman
-- Newman
-- HTML-extra-report
+## 🛠️ Technologies Used
+- [Postman](https://www.postman.com/)
+- [Newman](https://www.npmjs.com/package/newman)
+- [HTMLExtReporter](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
+---
 
-## Prerequisite:
-- Install Nodejs
+## ⚙️ Prerequisites
+- Install [Node.js](https://nodejs.org/)
 
-How to run?
-- ```git clone```
-- ```npm i```
-- ```npm test```
+### ▶️ How To Run?
+```bash
+git clone
+npm install
+npm test
+```
 
-###### Caution: You must have the .env file to run this project
+⚠️ Note: You Must Have The .env File Configured To Run This Project Successfully.
+
+---
 
 ## 🐞 Bug & Improvement Report
 
+If You Discover Any Bugs Or Have Suggestions For Improvement, Kindly Review The Linked Report Below:
 
+🔗 [Bug / Improvement Sheet](https://docs.google.com/spreadsheets/d/1JQbxIb2fBHxACozqMwtbj6t9tKCaBpQLuTmV9g0HA0g/edit?usp=sharing)
 
+---
+
+✅ Thank You For Visiting This Project!
